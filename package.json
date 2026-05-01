@@ -1,8 +1,8 @@
 {
-  "name": "shadow-relay",
+  "name": "xpoff",
   "version": "1.1.0",
   "type": "module",
-  "description": "A lightweight and stealthy serverless tunnel for Xray/V2Ray, running on Vercel with minimal footprint.",
+  "description": "lets go whith xpoff",
   "private": true,
   "license": "MIT"
 }
