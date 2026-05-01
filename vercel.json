@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "name": "shadow-relay",
+  "name": "xpoff",
   "functions": {
     "api/index.js": {
       "memory": 128,
